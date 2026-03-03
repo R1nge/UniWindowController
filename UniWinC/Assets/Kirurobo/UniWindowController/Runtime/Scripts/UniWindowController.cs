@@ -118,7 +118,7 @@ namespace Kirurobo
         /// <summary>
         /// Low level class
         /// </summary>
-        private UniWinCore _uniWinCore = null;
+        public UniWinCore _uniWinCore = null;
 
         /// <summary>
         /// Is this window receives mouse events
